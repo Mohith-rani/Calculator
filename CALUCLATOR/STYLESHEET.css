@@ -1,0 +1,36 @@
+.div1{
+    margin-top:170px;
+    border-color:black;
+    border: solid;
+    display:inline-block;
+    padding: 30px;
+    margin-bottom: 500px;
+    margin-right:550px;
+    margin-left: 520px;
+    background-color: rgb(191, 211, 216);
+
+}
+.input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid;
+    border-width: 2px;
+    height: 35px;
+    width: 280px;
+    border-radius: 10px;
+    text-align: right;
+}
+button{
+    padding:15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+    background-color: white;
+    font-weight: bold;
+}
+.ac,.c{
+    background-color: rgb(127, 187, 255);
+    color: black;
+}
